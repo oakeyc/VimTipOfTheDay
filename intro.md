@@ -8,14 +8,24 @@
 - Type: `h`, `j`, `k`, `l`
 
 this is some text
-one, two, three, four
+
+- go by word
+- Type: `w`, `b`, `e`
+
+this is some text
+somefunctionthatisverylongbecausejava the next thing
 
 ## Modes
+
+### Normal Mode
+
+Type: `ctrl-c` or `esc`
+Moving cursor around, commands, etc
 
 ### Visual Mode
 
 - Type: `v`
-- Type: `crtl-v`
+- Type: `ctrl-v`
 
 - This line
 

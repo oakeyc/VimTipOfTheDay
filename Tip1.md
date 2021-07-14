@@ -2,7 +2,7 @@
 
 ## Numbers + Movement
 
-- Try "5j" for 5 down 
+- Type: `5j` for 5 down 
 
 Begining
 1.
@@ -13,6 +13,7 @@ Begining
 
 ## Visual + Number + Movement
 
+Type: `v5j` or `ctrl-v5j`
 Compounding movements
 
 Begining
@@ -21,4 +22,3 @@ Begining
 3.
 4.
 5.
-

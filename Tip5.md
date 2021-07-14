@@ -1,13 +1,12 @@
-# Any bonus tips from chat? Questions?
-
+# Any bonus tips from chat? Questions/ Concerns?
 
 ## Tips from @cjonsmith
-- type: `g<nav>` - visual lines
+- Type: `g<nav>` - visual lines
 
 sslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkfslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkfslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkfslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkfslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkfslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkfslkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkflkdfjsdlkfjsdlkfjsdlkfjslkdfjsdlkf
 
-- type: `ctrl-a` - increment
-- type: `ctrl-x` - decrement
+- Type: `ctrl-a` - increment
+- Type: `ctrl-x` - decrement
 
-5
+Number: 5
 
